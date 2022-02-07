@@ -40,4 +40,5 @@ export class UsersRepository implements IUsersRepository {
   }
 }
 
+
 //SELECT first_name, last_name FROM  users WHERE first_name = users.first_name AND last_name = users.last_name"
